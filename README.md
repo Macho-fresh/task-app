@@ -1,5 +1,5 @@
 # task-app
-# https://github.com/Macho-fresh/task-app/tree/master
+# https://roadmap.sh/projects/task-tracker
 A task app for the CLI with python. 
 
 The cli app is used from the terminal in your IDE or pc terminal
