@@ -1,4 +1,3 @@
-https://roadmap.sh/projects/task-tracker
 # task-app
 A task app for the CLI with python. 
 
